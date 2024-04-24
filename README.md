@@ -3,8 +3,9 @@ Welcome to my portfolio website repository! This project showcases my skills, pr
 
 Features:
 Responsive Design: Built using HTML and CSS, the website is fully responsive, ensuring optimal viewing experience across a wide range of devices.
+
 Home Page: The home page provides an introduction to who I am, my skills, and highlights of my work. It serves as the main entry point to navigate through the portfolio.
-Contact Page: Connect with me easily through the contact page. Feel free to reach out with inquiries, feedback, or collaboration opportunities.
+Contact Page: Connect with me easily through the contact page.
 
 Technologies Used:
 HTML5
